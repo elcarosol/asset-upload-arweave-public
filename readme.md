@@ -10,6 +10,12 @@ This was designed to lower the overall cost of uploading nft assets when launchi
 
 - im not the best at instructions, so if you have any questions fee free to dm me on twitter. https://twitter.com/imnotelcaro or add me on discord elcaro#0001
 
+use this calculator to estimate cost of the uploade in AR - https://ardrive.io/pricing/
+
+for a 3g collection metadata/images it cost under 90 usd, which is less than 1/2 a sol at current prices.
+
+This method lowers the cost of deploying a contract by hundreds of dollars.
+
 # Instructions
 
 make sure you have npm installed, then run npm install
