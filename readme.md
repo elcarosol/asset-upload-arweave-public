@@ -18,6 +18,8 @@ Add your wallet inside the string on line 14, and the first 6 characters of your
 
 then just add your assets/metadata (change the import names or change your file names to match) your good to go, run the file and your off to the races saving 30 sol
 
+then all you have to do after upload is copy the config file over to your candy machine and deploy the smart contract
+
 # Pull Template
 
 # Description
